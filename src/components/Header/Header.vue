@@ -28,7 +28,7 @@
                 </el-col>
                 <el-col :span="14" style="display: flex;align-items: center;">
                     <el-button-group class="ml-4" >
-                            <el-button type="primary" :icon="Edit"  >发帖</el-button>
+                            <el-button type="primary" :icon="Edit"  >发帖11</el-button>
                             
                     </el-button-group>
                 </el-col>
